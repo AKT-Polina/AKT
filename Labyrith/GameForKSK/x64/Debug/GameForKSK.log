@@ -1,0 +1,5 @@
+﻿  GameForKSK.cpp
+C:\Users\NEO1\Documents\C++\GameForKSK\GameForKSK\GameForKSK.cpp(31,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\NEO1\Documents\C++\GameForKSK\GameForKSK\GameForKSK.cpp(56,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\NEO1\Documents\C++\GameForKSK\GameForKSK\GameForKSK.cpp(151,7): warning C4101: kill: неиспользованная локальная переменная
+  GameForKSK.vcxproj -> C:\Users\NEO1\Documents\C++\GameForKSK\x64\Debug\GameForKSK.exe
